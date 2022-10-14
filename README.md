@@ -28,7 +28,7 @@ We are very enthusiastic about Crypto! We would like to have a site to view the 
 
 As we said before, it can take you a couple of hours or a day.
 
-1. You can use [this api](https://min-api.cryptocompare.com/) or any other API (just try to complete the requirements)
+1. You can use [this api endpoint](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false) or any other API (just try to complete the requirements)
 2. Use Hooks
 3. Refactor the code
 4. Format values (dates, prices, etc)
